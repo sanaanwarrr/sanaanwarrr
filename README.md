@@ -1,4 +1,4 @@
-<h1 align="center">hi there! i'm sana anwar (سناء أنور)</h1>
+<h1 align="center">hi there! i'm sana anwar </h1>
 <h3 align="center">cs ∪ finance ⊆ njit honors</h3>
 
 - 💻 research @ **NJIT department of informatics, department of humanities & social science**
