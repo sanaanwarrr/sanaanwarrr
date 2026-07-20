@@ -1,11 +1,9 @@
-<h1 align="center">hi there! i'm sana anwar </h1>
-<h3 align="center">cs ∪ finance ⊆ njit honors</h3>
+<h1 align="center">Sana Anwar </h1>
+<h3 align="center">Computer Science & Financial Technology @ NJIT Honors</h3>
 
-- 💻 incoming eng pre-intern @ **BNY Mellon**
+- 💻 Engineering @ **BNY Mellon**
 
-- 💬 NLP/LLM eng research @ **NJIT**
-
-- 👀 looking for **internships & co-op experiences**
+- 💬 NLP/LLM Research @ **NJIT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
